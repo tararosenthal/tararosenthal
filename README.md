@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tararosenthal
+- 👀 I’m interested in becoming a java developer
+- 🌱 I’m currently learning object oriented design principles focusing on encapsulation and user friendly code writing
+- 💞️ I’m looking to collaborate on medium to large projects utilizing java
+- 📫 How to reach me: tararosenthal@gmail.com
