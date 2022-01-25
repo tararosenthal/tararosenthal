@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tararosenthal
-- 👀 I’m interested in becoming a Java developer
-- 🌱 I’m currently learning object oriented design principles focusing on encapsulation and user friendly code writing
-- 💞️ I’m looking to collaborate on medium to large projects utilizing Java
+- 👀 I’m interested in seamless web design
+- 🌱 I’m currently working as a freelance web developer and automated integration and unit tester
+- 💞️ I’m looking to collaborate on medium to large projects utilizing Java, JavaScript, HTML, and CSS
 - 📫 How to reach me: tararosenthal@gmail.com
