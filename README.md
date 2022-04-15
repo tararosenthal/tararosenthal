@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tararosenthal
-- 👀 I’m interested in responsive web design
-- 🌱 I’m currently working as a freelance web developer and automated integration and unit tester
-- 💞️ I’m looking to collaborate on medium to large projects utilizing Java, JavaScript, HTML, and CSS
+- 👀 My stack includes React, Spring Boot, PostgreSQL
+- 🌱 I’m currently working as a freelance fullstack developer and dabble in Ruby for open source
+- 💞️ I’m looking to collaborate on medium to large projects utilizing Java and JavaScript.
 - 📫 How to reach me: tararosenthal@gmail.com
