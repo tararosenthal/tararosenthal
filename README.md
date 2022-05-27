@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tararosenthal
-- 👀 My stack includes React, Spring Boot, PostgreSQL
+- 👀 My stack includes React, Spring, PostgreSQL, MongoDB
 - 🌱 I’m currently working as a fullstack developer and dabble in Ruby for open source
 - 💞️ I’m looking to collaborate on medium to large projects utilizing Java and JavaScript.
 - 📫 How to reach me: tararosenthal@gmail.com
